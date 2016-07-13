@@ -1,3 +1,9 @@
 button#button {
     position: fixed;
 }
+
+div.meaning {
+    top: -5px;
+	right: -300px;
+    position: absolute;
+}
