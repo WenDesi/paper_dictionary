@@ -3,7 +3,12 @@ button#button {
 }
 
 div.meaning {
-    top: -5px;
+    top: 0px;
 	right: -300px;
     position: absolute;
+}
+
+.select-word {
+    display: initial;
+    text-decoration: underline;
 }
