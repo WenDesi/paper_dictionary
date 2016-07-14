@@ -1,4 +1,4 @@
-button#button {
+#button {
     position: fixed;
 }
 
@@ -11,4 +11,16 @@ div.meaning {
 .select-word {
     display: initial;
     text-decoration: underline;
+}
+
+.highlight {
+	background-color: yellow;
+}
+
+.note {
+	background-color: limegreen;
+}
+
+#summary {
+	border: dotted orange 1px;
 }
